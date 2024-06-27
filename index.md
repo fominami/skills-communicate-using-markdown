@@ -1,3 +1,3 @@
-
-std::cout<<"Hello,World!";
-
+```C++
+cout<<"Hello,World!";
+```
